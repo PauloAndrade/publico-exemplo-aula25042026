@@ -15,3 +15,4 @@ Caio Parada Oliveira Planinschek **RA:***1240205596*
 - Eduardo Henrique Braga da Silva
 - Ryan Costa
 - Ana Carolina de Souza Araujo RA: 1240200600
+- Kristian Barboza Lopes
