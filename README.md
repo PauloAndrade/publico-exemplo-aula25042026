@@ -14,3 +14,4 @@ Caio Parada Oliveira Planinschek **RA:***1240205596*
 - Prof. Paulo Andrade
 - Eduardo Henrique Braga da Silva
 - Ryan Costa
+- Ana Carolina de Souza Araujo RA: 1240200600
